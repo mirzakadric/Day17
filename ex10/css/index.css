@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://image.ibb.co/cO9Lxq/login-bg.jpg")
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+}
+.logo {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+label {
+    color: white;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+
+}
+.text-input {
+    position: relative;
+    color: black;
+    padding-left: 5%;
+}
+form {
+    padding-top: 5%;
+    padding-left: 10%;
+}
+#right {
+    display: flex;
+    flex-direction: row-reverse;
+    position: fixed;
+    right: 15%;
+    top: 50%;
+    size: 10%;
+    width: fit-content;
+}
+.hr-bar {
+    width: 25%;
+    position: fixed;
+    bottom: 25%;
+    left: 10%;
+}
+.primary-btn {
+    color: blue;
+}
+#links {
+    padding-left: 10%;
+    padding-top: 2%;
+}
+.secondary-btn {
+    padding-left: 10%;
+    width: 50%;
+    color: grey;
+}
+#main-footer {
+    padding-left: 10%;
+    bottom: 5%;
+    position: fixed;
+}
